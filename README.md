@@ -1,42 +1,23 @@
 # 👋 Hi, I'm Mohammad
 
-🎓 **Software Engineering Graduate** | 🧑‍💻 **42 Amman Cadet** | 💻 **C & web Developer**
+🎓 **Software Engineering Graduate** | 🧑‍💻 **42 Amman Cadet** | 💻 **Software Engineer**
 
 I am a fresh graduate in **Software Engineering** and a cadet at **42 Amman**, where learning is fully **project-based and peer-driven**.  
-I enjoy building software from the ground up, understanding how systems work internally, and applying practical solutions through real-world projects.
+My background combines low-level programming, structured software development, and building scalable web-based systems.
+
+I enjoy working on software from both a technical and engineering perspective, focusing on clarity, structure, and maintainability.
 
 ---
 
 ## 🚀 About Me
 - 🎓 Fresh Graduate in **Software Engineering**
-- 🧑‍💻 Cadet at **42 Amman** (project-based learning)
-- 💡 Strong foundation in **C programming**
-- 🌐 Frontend developer with experience in **JavaScript, HTML, and CSS**
-- 🧠 Interested in **system programming, algorithms, and problem solving**
-- 📚 Always learning through hands-on projects
-
----
-
-## 🧩 Projects
-
-### 🔹 42 School Projects
-- **libft**  
-  Personal C library reimplementing standard libc functions.
-
-- **ft_printf**  
-  Custom implementation of the `printf` function using variadic arguments.
-
-- **get_next_line**  
-  Function that reads from a file descriptor line by line.
-
-- **push_swap**  
-  Sorting algorithm project using stacks,  
-  based on **indexing** and **chunking** strategies.
-
-### 🔹 Academic / Personal Projects
-- **Scrum Project Management System**  
-  A full-stack web application for managing Scrum workflows.  
-  **Tech stack:** React.js, Spring Boot, PostgreSQL.
+- 🧑‍💻 Cadet at **42 Amman** (intensive, project-based learning model)
+- 💻 Strong foundation in **C programming** through system-level projects
+- 🌐 Experience developing user-facing interfaces using **React.js**, **JavaScript**, **HTML**, and **CSS**
+- ⚙️ Backend development with **Spring Boot**, focusing on clean architecture and API-driven design
+- 🗄️ Data modeling and persistence using **PostgreSQL**
+- 🧠 Interested in building **well-structured software systems** with clear logic and flow
+- 📚 Used to working with requirements, breaking problems into components, and iterating through solutions
 
 ---
 
@@ -56,26 +37,27 @@ I enjoy building software from the ground up, understanding how systems work int
 - **Docker** (basic)
 - **VS Code**
 
-### Concepts
-- Data Structures & Algorithms  
-- Memory Management  
-- Project-Based Development  
-- Basic Socket Programming  
-- Databases & SQL  
+### Engineering & Development Practices
+- Writing modular and maintainable code  
+- Designing applications around clear responsibilities  
+- Translating requirements into structured implementations  
+- Working iteratively and incrementally on features  
+- Applying consistent development workflows  
 
 ---
 
 ## 🧪 Development Environment
-- Linux / Unix-based systems  
+- **Linux**
+- **Windows**
+- Unix-based command-line tools  
 - Makefiles & GCC  
-- Command-line tools  
 
 ---
 
 ## 📊 GitHub Activity
-- Project-oriented learning approach  
-- Clean, readable, and structured code  
-- Well-documented repositories  
+- Project-oriented development with an engineering mindset  
+- Repositories organized around clarity and structure  
+- Emphasis on readable code and incremental improvement  
 
 ---
 
@@ -84,4 +66,4 @@ I enjoy building software from the ground up, understanding how systems work int
 
 ---
 
-⭐ Motivated to grow as a software engineer and contribute to meaningful projects.
+⭐ Motivated to grow as a software engineer and contribute to reliable, well-designed software systems.
