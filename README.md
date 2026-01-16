@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad
 
-🎓 **Software Engineering Graduate** | 🧑‍💻 **42 Amman Cadet** | 💻 **C & Frontend Developer**
+🎓 **Software Engineering Graduate** | 🧑‍💻 **42 Amman Cadet** | 💻 **C & web Developer**
 
 I am a fresh graduate in **Software Engineering** and a cadet at **42 Amman**, where learning is fully **project-based and peer-driven**.  
 I enjoy building software from the ground up, understanding how systems work internally, and applying practical solutions through real-world projects.
