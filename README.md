@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad (ittsmoa)
+# 👋 Hi, I'm Mohammad
 
 🎓 **Software Engineering Graduate** | 🧑‍💻 **42 Amman Cadet** | 💻 **C & Frontend Developer**
 
