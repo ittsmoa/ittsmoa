@@ -10,7 +10,7 @@ I enjoy working on software from both a technical and engineering perspective, f
 ---
 
 ## 🚀 About Me
-- 🎓 Fresh Graduate in **Software Engineering**
+- 🎓 Bachelor’s Degree in **Software Engineering**
 - 🧑‍💻 Cadet at **42 Amman** (intensive, project-based learning model)
 - 💻 Strong foundation in **C programming** through system-level projects
 - 🌐 Experience developing user-facing interfaces using **React.js**, **JavaScript**, **HTML**, and **CSS**
@@ -24,6 +24,7 @@ I enjoy working on software from both a technical and engineering perspective, f
 ## 🛠 Skills & Technologies
 
 ### Languages
+- **Java**
 - **C**
 - **JavaScript**
 - **HTML**
@@ -36,6 +37,7 @@ I enjoy working on software from both a technical and engineering perspective, f
 - **Git & GitHub**
 - **Docker** (basic)
 - **VS Code**
+- **Postman**
 
 ### Engineering & Development Practices
 - Writing modular and maintainable code  
